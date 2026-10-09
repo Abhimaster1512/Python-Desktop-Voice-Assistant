@@ -1,0 +1,216 @@
+{
+    "intents": [
+
+        {
+            "tag": "open_application",
+            "patterns": [
+                "Open Chrome",
+"Launch Chrome",
+"Start Chrome",
+"Open my Chrome browser",
+"Run Chrome",
+"Open Notepad",
+"Launch Notepad",
+"Start Calculator",
+"Open VS Code"
+
+            ]
+        },
+
+        {
+            "tag": "open_website",
+            "patterns": [
+                "Open Google website",
+"Launch Google",
+"Start Google",
+"Open my Google",
+"Open YouTube website",
+"Launch YouTube",
+"Go to YouTube",
+"Go to Google",
+"Take me to Google",
+"Open browser and Google"
+            ]
+        },
+
+        {
+            "tag": "google_search",
+            "patterns": [
+                "Search Python tutorial",
+                "Find machine learning course",
+                "Search AI topics",
+                "Google data science",
+                "Find information about Java",
+                "Search on internet",
+                "Look for latest technology"
+            ]
+        },
+
+        {
+            "tag": "weather",
+            "patterns": [
+                "What is the weather",
+                "Tell me weather today",
+                "How is the weather in Mumbai",
+                "What is temperature",
+                "Is it raining today",
+                "Show weather report"
+            ]
+        },
+
+        {
+            "tag": "news",
+            "patterns": [
+                "Tell me latest news",
+                "Read today's news",
+                "Show technology news",
+                "Give me headlines",
+                "What's happening today"
+            ]
+        },
+
+        {
+            "tag": "calculator",
+            "patterns": [
+                "Calculate 20 plus 30",
+                "Solve 50 multiplied by 2",
+                "What is 100 divided by 5",
+                "Do a calculation",
+                "Find the answer of 10 plus 15"
+            ]
+        },
+
+        {
+            "tag": "time",
+            "patterns": [
+                "What is the time",
+                "Tell current time",
+                "What time is it now",
+                "Give me the time"
+            ]
+        },
+
+        {
+            "tag": "date",
+            "patterns": [
+                "What is today's date",
+                "Tell me the date",
+                "What day is today",
+                "Give current date"
+            ]
+        },
+
+        {
+            "tag": "note_create",
+            "patterns": [
+                "Create a note",
+                "Save a note",
+                "Write a new note",
+                "Take a note",
+                "Remember this information"
+            ]
+        },
+
+        {
+            "tag": "note_read",
+            "patterns": [
+                "Show my notes",
+                "Read my notes",
+                "Display all notes",
+                "What are my notes"
+            ]
+        },
+
+        {
+            "tag": "reminder_create",
+            "patterns": [
+                "Set a reminder",
+                "Remind me tomorrow",
+                "Create a reminder",
+                "Remember my task"
+            ]
+        },
+
+        {
+            "tag": "screenshot",
+            "patterns": [
+                "Take a screenshot",
+                "Capture screen",
+                "Save my screen",
+                "Take picture of display"
+            ]
+        },
+
+        {
+            "tag": "shutdown",
+            "patterns": [
+                "Shutdown computer",
+                "Turn off my PC",
+                "Switch off laptop",
+                "Power down system"
+            ]
+        },
+
+        {
+            "tag": "restart",
+            "patterns": [
+                "Restart computer",
+                "Reboot my laptop",
+                "Restart the system"
+            ]
+        },
+
+        {
+            "tag": "lock",
+            "patterns": [
+                "Lock my computer",
+                "Lock screen",
+                "Secure my laptop"
+            ]
+        },
+
+        {
+            "tag": "greeting",
+            "patterns": [
+                "Hello",
+                "Hi",
+                "Hey assistant",
+                "Good morning",
+                "Good evening"
+            ]
+        },
+
+        {
+            "tag": "goodbye",
+            "patterns": [
+                "Goodbye",
+                "Bye",
+                "See you later",
+                "Exit assistant",
+                "Stop assistant"
+            ]
+            
+        },
+        { 
+            "tag": "unknown",
+            "patterns": [
+            "random question",
+            "tell me something",
+            "explain this topic"
+    ]
+
+},
+{
+    "tag": "note_read",
+    "patterns": [
+        "Show my notes",
+        "Read my notes",
+        "Display all notes",
+        "What are my notes",
+        "Tell me my saved notes"
+    ]
+    
+}
+
+    ]
+}
